@@ -1,0 +1,21 @@
+instance_destroy()//Destroy se enconstar na obj_CLT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
